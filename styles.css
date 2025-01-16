@@ -1,0 +1,290 @@
+.LOGO {
+    border:0px;
+    height: 150px;
+    width: 185px;
+    position:relative;
+    top: 20px;
+}
+.homepage-back {
+background-color: #e0be7e;
+    transition: background-color 1s ease;
+}
+/* backgrounds:*/
+.yellow-background {
+  background-color: rgb(238, 203, 88);
+}
+.blue-background {
+  background-color: rgb(56, 56, 105);
+}
+.red-background {
+  background-color: rgb(149, 14, 14);
+}
+.nonchalent-back {
+  background-color: rgb(104, 62, 143);
+}
+/*from w3 schools and explained by chatgpt:*/
+
+      .moods {
+        overflow: hidden;
+        background-color: #333;
+        position:relative;
+        left: 195px;
+        top: -70px;
+      }
+      
+      .moods a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      
+      .moods a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+      
+      .moods a.active {
+        background-color: #0b734d;
+        color: white;
+      }
+
+
+.emotioncow {
+  text-align:center;
+}
+.name{
+  position:relative;
+}
+
+      .homepic {
+  position: center;
+}
+.form {
+  position:absolute;
+  top: 600px;
+  right: 450px;
+}
+/*From w3 schools:*/
+.form button {
+  background-color:#04AA6D;
+  color: rgb(0, 0, 0);
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.link-button:hover, .form button:active {
+  background-color: #04AA6D;
+}
+
+/*Taught by codeproject.com:*/
+.link-button {
+
+  background: #04AA6D;
+  border: 1px solid #aa8d56;
+  color: #000000;
+  outline: medium none;
+  padding: 15px;
+  text-decoration: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*From w3 schools:*/
+a {
+  background-color:#04AA6D;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  background-color:#04AA6D;
+}
+.checked{
+  color: #04AA6D;
+}
+.goodvibes-cover {
+  height:50px;
+  width: 50px;
+}
+.text-good {
+  display: inline;
+  position: relative;
+  position: static;
+  left: 90px;
+  top: 250px;
+  left: 70px;
+}
+form{
+  position:relative;
+  top: 150px;
+}
+.sadtable {
+  color: whitesmoke;
+}
+/*Goodvibes table images: (Div classes decided not to work...)*/
+.bobm {
+  height:35px;
+  width:20px;
+}
+#beechboys{
+  height: 300px;
+  width:300px;
+}
+#beatles {
+  height: 300px;
+  width:300px;
+}
+#archies {
+  height: 300px;
+  width:300px; 
+}
+#wham {
+  height: 300px;
+  width:300px;  
+}
+/*Modern:*/
+#maroon5 {
+  height: 300px;
+  width:300px; 
+}
+#one {
+  height: 300px;
+  width:300px; 
+}
+#nm {
+  height: 300px;
+  width:300px;
+}
+#katy-p {
+  height: 300px;
+  width:300px;
+}
+/*end of goodvibes table images*/
+/*Images for the nonchalent table*/
+#billie {
+  height: 260px;
+  width:260px;
+}
+#girl-in-red {
+  height: 260px;
+  width:260px;
+}
+#ariana-grande {
+  height: 260px;
+  width:260px; 
+}
+/*End of images for the nonchalent table*/
+/*Sad images:*/
+#adele {
+  height: 260px;
+  width:260px; 
+}
+#dio {
+  height: 260px;
+  width:260px; 
+}
+#ts {
+  height: 260px;
+  width:260px; 
+}
+#ga {
+  height: 260px;
+  width:260px; 
+}
+#fo {
+  height: 260px;
+  width:260px; 
+}
+#or {
+  height: 260px;
+  width:260px; 
+}
+#dolly {
+  height: 260px;
+  width:260px; 
+}
+#walters {
+  height: 260px;
+  width:260px; 
+}
+#macaron {
+  height: 260px;
+  width:260px; 
+} 
+/*Angry music images:*/
+#whiplash {
+  height: 260px;
+  width:260px; 
+}
+#eminem {
+  height: 260px;
+  width:260px; 
+}
+#bee {
+  height: 260px;
+  width:260px; 
+}
+#moon{
+  height: 260px;
+  width:260px; 
+}
+#locomotive {
+  height: 260px;
+  width:260px; 
+}
+#danzon {
+  height: 260px;
+  width:260px; 
+}
+#campanella {
+  height: 260px;
+  width:260px; 
+}
+#hun {
+  height: 260px;
+  width:260px; 
+}
+#oktavia {
+  height: 260px;
+  width:260px; 
+}
+#dies {
+  height: 260px;
+  width:260px; 
+}
+/*relaxed images:*/
+#laufey {
+  height: 260px;
+  width:260px; 
+}
+#pomme {
+  height: 260px;
+  width:260px; 
+}
+#wall {
+  height: 260px;
+  width:260px; 
+}
+#rio-romeo-image {
+  height: 260px;
+  width:260px;  
+}
+#bruno {
+  height: 260px;
+  width:260px;  
+}
+#bobby {
+  height: 260px;
+  width:260px;   
+}
+#louis {
+  height: 260px;
+  width:260px;  
+}
